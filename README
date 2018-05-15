@@ -1,6 +1,10 @@
-royband.com is a middleman app
+# royband.com is a middleman app
 
-gem install middleman
+# install
+gem install bundle
+bundle
+
+# docs
 http://middlemanapp.com
 
 Develop:
@@ -10,4 +14,3 @@ bundle exec middleman
 Build for Deploy:
 
 bundle exec middleman build
-
