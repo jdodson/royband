@@ -9,6 +9,8 @@
 
 # Ignore the build directory
 /build
+_site
+.jekyll-metadata
 
 # Ignore cache
 /.sass-cache
