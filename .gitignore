@@ -11,6 +11,7 @@
 /build
 _site
 .jekyll-metadata
+.jekyll-cache
 
 # Ignore cache
 /.sass-cache
