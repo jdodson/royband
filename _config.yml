@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Roy is a Rock Band
-email: jbdodson@gmail.com
+email: roysoothsyoursoul@gmail.com
 description: Roy is the greatest rock band in the entire world!
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "royband.com" # the base hostname & protocol for your site, e.g. http://example.com
