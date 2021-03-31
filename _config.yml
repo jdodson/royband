@@ -18,7 +18,7 @@ email: roysoothsyoursoul@gmail.com
 description: Roy is the greatest rock band in the entire world!
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "royband.com" # the base hostname & protocol for your site, e.g. http://example.com
-image: images/roy_main.png
+image: images/icons/android-chrome-512x512.png
 # Build settings
 markdown: kramdown
 #theme: minima
