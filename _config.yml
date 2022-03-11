@@ -15,7 +15,8 @@
 # in the templates via {{ site.myvariable }}.
 title: Roy is a Rock Band
 email: roysoothsyoursoul@gmail.com
-description: Roy is the greatest rock band in the entire world!
+davidfulleremail: davidfullercreative@gmail.com
+description: Formed in 1998 and continuing against the advice of our doctors.
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "royband.com" # the base hostname & protocol for your site, e.g. http://example.com
 image: images/icons/android-chrome-512x512.png

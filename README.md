@@ -1,6 +1,6 @@
 # royband.com uses
 
-* Ruby 2.7.2
+* Ruby 2.7.4
 * jekyll
 * html
 * hopefulness
