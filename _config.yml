@@ -19,7 +19,6 @@ davidfulleremail: davidfullercreative@gmail.com
 description: Formed in 1998 and continuing against the advice of our doctors.
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "royband.com" # the base hostname & protocol for your site, e.g. http://example.com
-image: images/icons/android-chrome-512x512.png
 # Build settings
 markdown: kramdown
 #theme: minima
